@@ -4,7 +4,8 @@ My first ever coded program lol, Converts DXT1 DDS (Pictures, textures, anything
 REQUIRES NODE.JS TO WORK / YOU NEED TO VERTICALLY FLIP YOUR DDS PICTURE BEFOREHAND AND SAVE IT AS DDS FLIPPING ISN'T IMPLEMENTED (yet)
 
 # Usage
-node Converter.js [input.dds] [output.img.wpc]
+1. Clone the repository and run the script via Command Prompt or anything similar that does the job
+2. Available commands: [input.dds] [output.img.wpc]
 
 # Examples
 node Converter.js test.dds test.img.wpc / node Converter.js wallpaper.dds loadscrn_east_la.img.wpc
