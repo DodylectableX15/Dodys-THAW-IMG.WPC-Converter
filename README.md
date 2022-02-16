@@ -11,6 +11,7 @@ REQUIRES NODE.JS TO WORK / YOU NEED TO VERTICALLY FLIP YOUR DDS PICTURE BEFOREHA
 node Converter.js test.dds test.img.wpc / node Converter.js wallpaper.dds loadscrn_east_la.img.wpc
 
 Tested with a 4K (3840x2160) DXT1 DDS wallpaper as a loading screen for a level
+![RE3R](https://user-images.githubusercontent.com/90272363/154357541-84196f03-239b-466f-a87b-bc080762a990.png)
 
 # Credits
 Zedek The Plague Doctor ™️ - For helping me since the first line of code lol, I really appreciate it :D
