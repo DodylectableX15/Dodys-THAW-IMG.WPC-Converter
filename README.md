@@ -8,7 +8,7 @@ REQUIRES NODE.JS TO WORK / YOU NEED TO VERTICALLY FLIP YOUR DDS PICTURE BEFOREHA
 2. Available commands: [input.dds] [output.img.wpc]
 
 # Examples
-node Converter.js test.dds test.img.wpc / node Converter.js wallpaper.dds loadscrn_east_la.img.wpc
+**node Converter.js test.dds test.img.wpc / node Converter.js wallpaper.dds loadscrn_east_la.img.wpc**
 
 Tested with a 4K (3840x2160) DXT1 DDS (Previously converted from PNG via paint.net) wallpaper as a loading screen for a level
 ![RE3R](https://user-images.githubusercontent.com/90272363/154357541-84196f03-239b-466f-a87b-bc080762a990.png)
@@ -18,3 +18,5 @@ And another 8K (7680x4320) DXT1 DDS (Previously converted from JPG via paint.net
 
 # Credits
 Zedek The Plague Doctor ™️ - For helping me since the first line of code lol, I really appreciate it :D
+
+[IMG.WPC (PC version) 010 Editor Template](https://github.com/DodylectableX15/Dodys-010-Templates/blob/main/Tony%20Hawk's%20American%20Wasteland%20(PC)/THAW%20IMG_WPC.bt)
